@@ -1,11 +1,11 @@
-# The Department (StackTrek Design a Database Activity)
+# THE DEPARTMENT (StackTrek Design a Database Activity)
 StackTrek - Design a Database Activity (The Department)
 
 # Built With
 - Python3
 - SQLite3
 
-# The Department ERD
+# THE DEPARTMENT (ERD)
 ![The Departments](https://github.com/argalx/TheDepartment/assets/31496662/e37552fc-e01c-44e2-8cd9-d7660a97f2e2)
 
 # Instructions
