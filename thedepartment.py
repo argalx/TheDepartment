@@ -147,3 +147,6 @@ def displayEmployees():
         
 # Call displayEmployees function
 displayEmployees()
+
+# Close Connection
+conn.close()
